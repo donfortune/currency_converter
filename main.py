@@ -32,5 +32,5 @@ if response.status_code == 200:
 
 
 else:
-    # Handle the error appropriately
+    # Handle the errors
     print("Error occurred:", response.text)
