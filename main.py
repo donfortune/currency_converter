@@ -1,5 +1,5 @@
 API = "XXXXXXXXX"
-BASE_URL = "http://api.exchangeratesapi.io/v1/"  # Address to send API request to
+BASE_URL = "http://api.exchangeratesapi.io/v1/" 
 
 from requests import get
 
